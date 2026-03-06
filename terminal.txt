@@ -40,3 +40,24 @@ $ git commit -m "First Commit"
 [master (root-commit) 92db033] First Commit
 1 file changed, O insertions (+), 0 deletions(-)
 create mode 100644 index.html
+Lab805 10805-15 MINGW64 ~/OneDrive/Documents/SEPM_100_T22 (master)
+$ git remote add origin https://github.com/siyarohra/T22_100_SEPMLAB.git
+Lab805_1@805-15 MINGW64 ~/OneDrive/Documents/SEPM_100_T22 (master)
+$ git remote -v
+origin https://github.com/siyarohra/T22_100_SEPMLAB.git (fetch)
+origin https://github.com/siyarohra/T22_100_SEPMLAB.git (push)
+Lab805_1@805-15 MINGW64 ~/OneDrive/Documents/SEPM_100_T22 (master)
+$ git push u origin master
+fatal: User cancelled dialog.
+Lab805_1@805-15 MINGW64 ~/OneDrive/Documents/SEPM_100_T22 (master)
+$ git push u origin master
+info: please complete authentication in your browser...
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 214 bytes | 214.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/siyarohra/T22_100_SEPMLAB.git
+* [new branch] master -> master
+branch 'master' set up to track 'origin/master'.
+Lab805-10805-15 MINGW64 ~/OneDrive/Documents/SEPM_100_T22 (master)
+
